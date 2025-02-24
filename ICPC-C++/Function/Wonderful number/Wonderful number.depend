@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722471323 source:c:\users\ahmed\desktop\function\wonderful number\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
